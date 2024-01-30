@@ -21,3 +21,4 @@
 - [Eclipse Wallet Repo](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet)
 - [Eclipse Explorer Repo](https://github.com/Eclipse-Laboratories-Inc/explorer)
 - [Eclipse Explorer](https://explorer.dev.eclipsenetwork.xyz/)
+- [Chomping Glass Game](https://chomping-glass.vercel.app/)
