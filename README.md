@@ -13,6 +13,8 @@
 - [Linkedin](https://www.linkedin.com/company/eclipse-laboratories/)
 - [Telegram](https://t.me/eclipse_labs)
 - [Discord](https://discord.com/invite/eclipse-labs)
+- [Youtube](https://www.youtube.com/@EclipseBuilders)
+  
 
 ## developers
 - [Eclipse Sepolia Bridge](https://hkey0.github.io/EclipseBridge/)
