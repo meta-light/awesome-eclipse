@@ -7,6 +7,7 @@
 - [Eclipse Blog](https://mirror.xyz/eclipsemainnet.eth)
 - [Eclipse Careers](https://www.eclipse.builders/careers)
 - [Eclipse News](https://www.eclipse.builders/news)
+- [Eclipse Feedback](https://eclipse.upvoty.com/)
 
 ## socials
 - [X (Twitter)](https://twitter.com/EclipseFND)
