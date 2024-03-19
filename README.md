@@ -8,6 +8,7 @@
 - [Eclipse Careers](https://www.eclipse.builders/careers)
 - [Eclipse News](https://www.eclipse.builders/news)
 - [Eclipse Feedback](https://eclipse.upvoty.com/)
+- [Eclipse Github](https://github.com/Eclipse-Laboratories-Inc)
 
 ## socials
 - [X (Twitter)](https://twitter.com/EclipseFND)
