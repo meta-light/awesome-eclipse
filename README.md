@@ -9,7 +9,7 @@
 - [Eclipse News](https://www.eclipse.builders/news)
 - [Eclipse Feedback](https://eclipse.upvoty.com/)
 - [Eclipse Github](https://github.com/Eclipse-Laboratories-Inc)
-- [Eclipse Brand Assets](https://lovecity.notion.site/Eclipse-Brand-Assets-024920522390421a99da5abec621440c)
+- [Eclipse Brand Assets](https://lovecity.notion.site/Eclipse-Brand-Assets-faf72320bb964079ad07d403aa11ee3a)
 
 ## socials
 - [X (Twitter)](https://twitter.com/EclipseFND)
