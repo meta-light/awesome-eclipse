@@ -31,3 +31,4 @@
 ## dapps
 - [Clone Markets](https://e-markets.clone.so/)
 - [Invarient](https://eclipse.invariant.app/swap)
+- [Openbook](https://openbook-dex-ui-eclipse.fly.dev/#/market/8GmrrARv2SQ5Z8eKnrvJ9VrcZHDoeGmRfR5MY5jmqfuM)
