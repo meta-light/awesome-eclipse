@@ -38,6 +38,7 @@
 - [Hello World Guide](https://docs.eclipse.xyz/tutorials-and-guides/developer-guides/quick-start-hello-world)
 - [Eclipse Sepolia Bridge Source Code](https://github.com/hkey0/EclipseBridge)
 - [Testnet Deposit Script](https://github.com/Eclipse-Laboratories-Inc/testnet-deposit)
+- [Eclipse Wallet Adapter](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet-adapter)
 - [Eclipse Wallet Repo](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet/releases)
 - [Eclipse Explorer Repo](https://github.com/Eclipse-Laboratories-Inc/explorer)
 - [Modifying a Solana dApp to Support Eclipse](https://docs.eclipse.xyz/tutorials-and-guides/developer-guides/modifying-a-solana-dapp-to-support-eclipse-chomping-glass)
@@ -47,6 +48,8 @@
 - [Eclipse Program Registry](https://github.com/Eclipse-Laboratories-Inc/program-registry)
 - [Eclipse MetaMask Snap](https://github.com/Eclipse-Laboratories-Inc/eclipse-snap)
 - [Mainnet Bridge Contract Address](https://etherscan.io/address/0x83cB71D80078bf670b3EfeC6AD9E5E6407cD0fd1)
+- [Eclipse Program Library](https://github.com/Eclipse-Laboratories-Inc/eclipse-program-library)
+- [Eclipse Explorer Repo](https://github.com/Eclipse-Laboratories-Inc/explorer)
 
 ## articles
 - [Eclipse Mainnet is Open for Builders](https://www.eclipse.xyz/articles/eclipse-mainnet-is-open-for-builders)
