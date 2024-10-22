@@ -52,7 +52,12 @@
 - [Eclipse Explorer Repo](https://github.com/Eclipse-Laboratories-Inc/explorer)
 - [Devent Token Faucet](https://eclipse-faucet-ui.vercel.app/)
 
-## articles
+## Dashboards
+- [Eclipse Overview (🐮,🌑) by moonshot21](https://flipsidecrypto.xyz/moonshot21/eclipse-overview-LXGdGJ)
+- [Eclipse Mainnet Bridge Stats by MetaLight](https://flipsidecrypto.xyz/MetaLight/eclipse-mainnet-bridge-stats-dLEzgm)
+- [Eclipse SVM: Overview, User Stats, Programs, Transactions by pepperatzi](https://flipsidecrypto.xyz/pepperatzi/eclipse-svm-overview-user-stats-programs-transactions-HAJkCO)
+
+## Articles
 - [Eclipse Mainnet is Open for Builders](https://www.eclipse.xyz/articles/eclipse-mainnet-is-open-for-builders)
 - [Pyth Price Feeds Come To Eclipse](https://www.eclipse.xyz/articles/pyth-price-feeds-come-to-eclipse)
 - [Eclipse Labs Announces $50M Series A Funding co-led by Placeholder and Hack VC](https://www.eclipse.xyz/articles/eclipse-labs-announces-50m-series-a-funding-co-led-by-placeholder-and-hack-vc)
@@ -62,7 +67,6 @@
 - [Exploring Eclipse's Canonical Ethereum Bridge and Proving System](https://www.eclipse.xyz/articles/exploring-eclipses-canonical-ethereum-bridge-and-proving-system)
 - [Eclipse Testnet Is Live](https://www.eclipse.xyz/articles/eclipse-testnet-is-live)
 - [Introducing Eclipse Mainnet: The Ethereum SVM L2](https://www.eclipse.xyz/articles/introducing-eclipse-mainnet-the-ethereum-svm-l2)
-- []()
 
 ## media
 - [We've Joined the US$50 Million Series A Investment in Eclipse, Ethereum’s First Layer 2 Using the Solana Virtual Machine (SVM)](https://www.okx.com/learn/okx-ventures-invests-eclipse)
