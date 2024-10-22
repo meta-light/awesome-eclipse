@@ -50,6 +50,7 @@
 - [Mainnet Bridge Contract Address](https://etherscan.io/address/0x83cB71D80078bf670b3EfeC6AD9E5E6407cD0fd1)
 - [Eclipse Program Library](https://github.com/Eclipse-Laboratories-Inc/eclipse-program-library)
 - [Eclipse Explorer Repo](https://github.com/Eclipse-Laboratories-Inc/explorer)
+- [Devent Token Faucet](https://eclipse-faucet-ui.vercel.app/)
 
 ## articles
 - [Eclipse Mainnet is Open for Builders](https://www.eclipse.xyz/articles/eclipse-mainnet-is-open-for-builders)
